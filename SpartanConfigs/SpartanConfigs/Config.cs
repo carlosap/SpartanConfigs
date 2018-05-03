@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.IO;
-
+using static System.Environment;
 namespace SpartanConfigs
 {
     public partial class Config
